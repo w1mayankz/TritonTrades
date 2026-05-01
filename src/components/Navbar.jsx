@@ -1,5 +1,5 @@
 import { ArrowUpRight } from 'lucide-react'
-import logo from '../logo.png'
+import logo from '../Gmozyr6EBGbapDZMSeS7dwyTaIQ.png'
 
 export default function Navbar() {
   return (
